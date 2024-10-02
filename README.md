@@ -6,7 +6,6 @@ The project employs a two-phase Hadoop MapReduce approach. In the first phase, t
  
 By utilizing the distributed processing capabilities of Hadoop, this project handles large volumes of data efficiently, making it possible to draw insights from the dataset at scale. The results of this analysis can be instrumental for healthcare providers in developing targeted interventions to reduce readmission rates among diabetes patients, ultimately improving patient outcomes and reducing healthcare costs.
 
-#SUMMARY
 This project utilizes Hadoop MapReduce to analyse hospital readmissions among
 diabetes patients, using the Diabetes 130-US hospitals dataset. Key steps include
 data preprocessing, extracting patient demographics, and analysing factors like age
